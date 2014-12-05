@@ -1,6 +1,6 @@
 ; ╒═══════════════════════════════════════════════╕
 ; │   CS 131 lab : Our Group Name                 │
-; │	      Members: Custodio, Anter Aaron          │
+; │	      Members: Custodio, Anter Aaron      │
 ; │                Nonan, Marie Angelique         │
 ; │                Viernes, Carl Zachery          │
 ; ╘═══════════════════════════════════════════════╛
